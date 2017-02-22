@@ -1,1 +1,1 @@
-# Intensive-Programming-in-Linux
+# Completed assignments done for the course CS288.
