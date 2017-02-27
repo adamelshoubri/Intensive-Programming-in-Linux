@@ -1,0 +1,31 @@
+•Generalize solution from last week’s homework so that instead of accepting two arguments your script accepts an arbitrary number of them.
+•Change the threshold for a potential sales lead  from $100,000 to 1,000,000 USD.
+•List the potential names of the customer who are potential sales leads and the products they purchase.
+* Again to be considered a valid lead the customer must but from more than one competitor and make total purchases greater then the threshold.
+Example output:
+
+/analysis2 https://web.njit.edu/~yurkowsk/29sept/competitorA https://web.njit.edu/~yurkowsk/29sept/competitorB https://web.njit.edu/~yurkowsk/29sept/competitorC https://web.njit.edu/~yurkowsk/29sept/competitorD https://web.njit.edu/~yurkowsk/29sept/competitorE
+
+The big spenders are customerA customerD customerG customerH.
+
+customerA buys:
+
+        routers
+
+        switches
+
+customerD buys:
+
+        switches
+
+customerG buys:
+
+        routers
+
+customerH buys:
+
+        routers
+
+        switches
+
+afsconnect1-133 ~ >:
