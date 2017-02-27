@@ -1,4 +1,6 @@
-Write a Bash script, count.sh, which builds a table of counts for the commands under /bin which start with each letter.  For example, if there are 3 commands starting with "a" (alsaumute, arch & awk) while there  may be  2 commands starting with "z" (zcat & zsh).  The first and last lines your script will print would be:
+Write a Bash script, count.sh, which builds a table of counts for the commands under /bin which start with each letter.  
+For example, if there are 3 commands starting with "a" (alsaumute, arch & awk) while there  may be  2 commands starting with "z" 
+(zcat & zsh).  The first and last lines your script will print would be:
 
 a 3
 
