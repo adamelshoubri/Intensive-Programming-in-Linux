@@ -1,0 +1,28 @@
+Write a script that accepts as it two command line argument two urls, for example, but not necessarily:
+
+https://web.njit.edu/~yurkowsk/29sept/competitorA
+
+and
+
+https://web.njit.edu/~yurkowsk/29sept/competitorB
+
+These files contain 3 comma separated fields:
+
+customer,sales,product
+
+where sales in a number and customer and product are strings.
+
+Find any customers that appear in both files that have total sales of more than 100000 and print the customer name and products they purchased.
+
+Sample output:
+
+
+./analysis  https://web.njit.edu/~yurkowsk/29sept/competitorA https://web.njit.edu/~yurkowsk/29sept/competitorB
+
+customerA buys  routers and switches
+
+customerF buys  servers
+
+customerG buys  routers
+
+afsconnect1-159 homework3 >:
